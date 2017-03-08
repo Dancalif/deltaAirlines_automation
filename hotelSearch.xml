@@ -15,7 +15,7 @@
   </test>
   
    <test name="HotelSearch Firefox Test">
-  <parameter name="browser" value="firefox" />
+  <parameter name="browser" value="chrome" />
   <parameter name="url" value="https://www.delta.com" />
   <parameter name ="daysFromCurrentDate" value="14" />
    <parameter name ="inputLocation" value="BOM" />
